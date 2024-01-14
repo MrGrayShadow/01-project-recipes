@@ -20,6 +20,6 @@ course in **The Odin Project** to create a website that contains links to four r
 - Using git and github
 - Write git commits in imperative voice
 - Keep git commit subject line to 50 characters or less that summarizes the change
-- Leave a blank line between the subject line and body or a commit
+- Leave a blank line between the subject line and body of a commit
 - Wrap the body of the commit at 72 characters
 - Use the body to explain the what and why of the code changes
