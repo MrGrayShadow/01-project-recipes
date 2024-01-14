@@ -12,7 +12,7 @@ course in **The Odin Project** to create a website that contains links, images a
 - Use HTML elements:
   - Anchor `<a>`
   - Ordered `<ol></ol>` and unordered `<ul></ul>` lists `<li></li>`
-  - Headers `<h1></h1>`
+  - Heading `<h1></h1>`
   - Paragraphs `<p></p>`
 - Link to relative webpages with href
 - Link to relative images with src
