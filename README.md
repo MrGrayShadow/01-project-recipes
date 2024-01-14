@@ -1,7 +1,7 @@
 # odin-recipes
 
 The goal of my first web development project is to apply the HTML skills acquired in the first section of the foundations
-course in **The Odin Project** to create a website that contains links to four recipes.  These skills include:
+course in **The Odin Project** to create a website that contains links, images and descriptions to four recipes.  These skills include:
 
 - Type out HTML boilerplate:
 	- HTML root element
@@ -11,12 +11,12 @@ course in **The Odin Project** to create a website that contains links to four r
 	- Body
 - Use HTML elements:
   - Anchor `<a>`
-  - Ordered `<ol></ol>`  and unordered `<ul></ul>` lists `<li></li>`
+  - Ordered `<ol></ol>` and unordered `<ul></ul>` lists `<li></li>`
   - Headers `<h1></h1>`
   - Paragraphs `<p></p>`
 - Link to relative webpages with href
 - Link to relative images with src
-- Differntiate absolute and relative links
+- Differentiate between absolute and relative links
 - Using git and github
 - Write git commits in imperative voice
 - Keep git commit subject line to 50 characters or less that summarizes the change
