@@ -1,0 +1,36 @@
+body {
+    background-color: #b5b5b5;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.top-chef-logo {
+    text-align: center;
+}
+
+.recipe-links {
+    display: flex;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: xx-large;
+}
+
+h2 {
+    font-style: italic;
+}
+
+.unlist {
+    font-weight: bold;
+    color: rgb(0, 54, 0);
+}
+
+#ordlist {
+    color: rgb(2, 1, 54);
+}
+
+p {
+    color: black;
+}
