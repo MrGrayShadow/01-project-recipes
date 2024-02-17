@@ -5,12 +5,19 @@ body {
 }
 
 .top-chef-logo {
-    text-align: center;
+    margin: 0 auto;
+    height: auto;
+    width: 500px;
+}
+
+.link-box {
+    background-color: white;
+    padding: 8px;
 }
 
 .recipe-links {
     display: flex;
-    margin: auto;
+    margin: 0 auto;
 }
 
 h1 {
